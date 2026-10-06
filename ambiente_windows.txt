@@ -1,0 +1,15 @@
+INFORMAÇÕES DO AMBIENTE
+==================================================
+Data da coleta                            : 05/10/2026 23:40
+Versão do sistema                         : Windows 11 CoreSingleLanguage (build 10.0.26200)
+Arquitetura do sistema                    : AMD64
+Versão do Python                          : 3.14.4
+Arquitetura do Python                     : 64 bits
+Processador                               : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+Núcleos lógicos (vCPUs se VM)             : 8
+Memória RAM total (RAM atribuída se VM)   : 7.79 GB
+Memória disponível agora                  : 2.16 GB
+Armazenamento (disco do sistema)          : 476 GB total, 277 GB livres
+Modelo da máquina                         : Dell Inc. G7 7588
+Rodando em máquina virtual?               : Não (provavelmente)
+Executável do Python                      : C:\Users\Pedro\AppData\Local\Programs\Python\Python314\python.exe
