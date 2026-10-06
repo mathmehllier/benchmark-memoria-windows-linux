@@ -1,0 +1,18 @@
+INFORMAÇÕES DO AMBIENTE
+==================================================
+Data da coleta                            : 05/10/2026 22:46
+Versão do sistema                         : Ubuntu 26.04.1 LTS (kernel 7.0.0-38-generic)
+Arquitetura do sistema                    : x86_64
+Versão do Python                          : 3.14.4
+Arquitetura do Python                     : 64 bits
+Processador                               : Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+Núcleos lógicos (vCPUs se VM)             : 2
+Memória RAM total (RAM atribuída se VM)   : 3.32 GB
+Memória disponível agora                  : 2.19 GB
+Armazenamento (disco do sistema)          : 63 GB total, 49 GB livres
+Modelo da máquina                         : innotek GmbH VirtualBox
+Rodando em máquina virtual?               : Sim
+Executável do Python                      : /usr/bin/python3
+
+ATENÇÃO: é VM. Anote manualmente a versão do VirtualBox
+e o hardware físico do computador hospedeiro.
